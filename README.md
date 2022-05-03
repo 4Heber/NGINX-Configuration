@@ -131,7 +131,7 @@ Locate and modify the "/hosts" file with nano, on sites-enabled directory move t
 
 Add the server IP and the both subdomains to resolve:
 
-** 5.22.219.33 ** ant-colony.4heber.com bit-rain.4heber.com
+**5.22.219.33** ant-colony.4heber.com bit-rain.4heber.com
 
 ![14-editHostFile-addIPserverSubdomainsFullRoute](https://user-images.githubusercontent.com/77643882/166486624-f5dee700-b007-4501-8cf1-b99a90b7c7c0.png)
 
@@ -168,14 +168,14 @@ Insert the "Bit rain" source code from <a href="https://onehtmlpagechallenge.com
 
 ![20-url1Open](https://user-images.githubusercontent.com/77643882/166489937-47fcee1d-cbc9-47cb-ad61-95ae7cc9b27a.png)
 
-*For this text-based browser the styles on the main file did not represented, but the redirection on the subdomain name works fine.*
+*For this text-based browser the styles on the main file did not represented, but the redirection on the subdomain name works fine.*<br/>
 *<a href="https://onehtmlpagechallenge.com/entries/ant_colony.html">View original site here</a>*
 
 `links bit-rain.4heber.com`
 
 ![21-url2Open](https://user-images.githubusercontent.com/77643882/166490718-0b41d702-59f4-414d-8dd4-a3afc4458adf.png)
 
-*For this text-based browser the styles on the main file did not represented, but the redirection on the subdomain name works fine.*
+*For this text-based browser the styles on the main file did not represented, but the redirection on the subdomain name works fine.*<br/>
 *<a href="https://onehtmlpagechallenge.com/entries/bits-rain.html">View original site here</a>*
 
 The IP resolution for both subdomains respond correctly with the index.html file of each website.
