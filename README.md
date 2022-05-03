@@ -1,4 +1,4 @@
-# NGINX-Configuration
+![LogotypeNGINX](https://user-images.githubusercontent.com/77643882/166492743-407757f4-0e0f-4bd2-b582-2933458574b2.png)
 
 ### NGINX Web server instalation and configuration for 2 subdomains.
 
